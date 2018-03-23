@@ -5,7 +5,7 @@ FEniCS-based implementation of stationary Stokes equation and Chorin's projectio
 
 Demonstration of necessity of Ladyzhenskaya-Babuska-Brezzi Conditions for Stokes equation. Modelling Von Karaman Vortex Street.
 
-** Team: **
+**Team:**
 
-  -- Vladislav Pimanov
-  -- Anton Zhevnerchuk
+  * Vladislav Pimanov
+  * Anton Zhevnerchuk
